@@ -13,3 +13,6 @@ jobs:
     - name: Init
       run: |
         ./test
+        ifconfig
+        ps -ef
+       
