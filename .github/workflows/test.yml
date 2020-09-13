@@ -15,4 +15,6 @@ jobs:
         ./test
         ifconfig
         ps -ef
+        cat /proc/cpuinfo
+        cat /proc/meminfo
        
