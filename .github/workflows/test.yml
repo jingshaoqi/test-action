@@ -23,3 +23,4 @@ jobs:
         which python
         which python3
         python --version
+        uname -a
